@@ -13,4 +13,5 @@
 
 
 #Licence 
-GPL v2 or the one of the saved board source
+
+Licence of the source will not change, general for this repositiory is GPL v2.
