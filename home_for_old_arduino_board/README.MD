@@ -2,12 +2,21 @@
 
 # Saved Boards
 
+## Digispark
+
+<b>URL</b>: https://github.com/digistump/DigisparkArduinoIntegration
+
+<b>Reason</b>: package Json was no longer available, the URL was dead, install was not possible
+
+<b>Licence</b>: GNU LESSER GENERAL PUBLIC LICENSE Version 2.1
+
+
 ## Digistump
-<b>URL</b>: https://github.com/digistump/DigistumpArduino/blob/master/digistump-avr/programmers.txt
+<b>URL</b>: https://github.com/digistump/DigistumpArduino/
 
-<b>Reason</b>: package Json was no longer available the URL was dead
+<b>Reason</b>: package Json was no longer available, the URL was dead, install was not possible
 
-<b>Licence</b>: ? 
+<b>Licence</b>: GNU LESSER GENERAL PUBLIC LICENSE Version 2.1 
 
 <b>Dependencies:</b>
 Micronucleus: https://github.com/micronucleus/micronucleus/tree/80419704f68bf0783c5de63a6a4b9d89b45235c7

@@ -1,3 +1,15 @@
+################################################################################
+# Digispark Digistump saved from 
+# Source: https://github.com/digistump/DigisparkArduinoIntegration
+
+digispark.name=Digispark
+digispark.communication=usb
+digispark.protocol=digispark
+
+################################################################################
+# Digispark Digistump saved from 
+# Source: https://github.com/digistump/DigistumpArduino/
+
 micronucleusprog.name=Micronucleus 
 micronucleusprog.communication=usb
 micronucleusprog.protocol=micronucleus
