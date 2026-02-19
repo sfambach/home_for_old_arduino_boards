@@ -4,7 +4,7 @@ menu.clock=Clock
 
 ################################################################################
 # Digispark saved from 
-# See https://github.com/digistump/DigistumpArduino/blob/master/digistump-avr/boards.txt
+# Source: https://github.com/digistump/DigistumpArduino/blob/master/digistump-avr/boards.txt
 
 digispark-tiny.name=Digispark (Default - 16.5mhz)
 digispark-tiny.upload.using=micronucleusprog
@@ -104,3 +104,13 @@ digispark-tiny1.build.variant=digispark
 digispark-tiny1.upload.wait_for_upload_port = false
 digispark-tiny1.upload.use_1200bps_touch = false
 digispark-tiny1.upload.disable_flushing = false
+
+################################################################################
+# Next to save
+# Source: 
+
+
+
+################################################################################
+
+
